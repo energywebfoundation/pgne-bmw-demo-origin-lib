@@ -1,0 +1,277 @@
+{
+	"30P3": {
+		"address": "0x23EC0fF0295D3B703A2BE59C7989337Caa881d04",
+		"privateKey": "0xbeba030892fc6b039cc2b762df7a9af0e077077de391dfdb0a52677b2e00197c",
+		"AssetId": 0
+	},
+	"57P2": {
+		"address": "0x1a8f2a227Cf14B55B142D55Af97E2E016c03C1d5",
+		"privateKey": "0x7aca3bad6d630c89623405c376da266824dfa949fcf2a479c1eee0823b7c33c3",
+		"AssetId": 1
+	},
+	"49P7": {
+		"address": "0x641E40F6aa07F379C8aB5Dd9bd6743C7830Fbc11",
+		"privateKey": "0x6f349c36f6130017837bc116eaa10c902fe2fc8e5be4dd0b8606ed621b944afa",
+		"AssetId": 2
+	},
+	"47P2": {
+		"address": "0x6430921f4FBD773788bde6163e903b33571CB8B4",
+		"privateKey": "0x5b0f6ade0cda20883a53f2b1db4e5d013b088325b1d3de372b2684ef86db2fe3",
+		"AssetId": 3
+	},
+	"43P4": {
+		"address": "0x2715abeE181B2B46d7d4344a4358Fa6e03F44634",
+		"privateKey": "0x295284021039b68828f6693c7d475231e488e9e5fd9381d3bdd1e9bde6eb4961",
+		"AssetId": 4
+	},
+	"66P6": {
+		"address": "0x5611cd75e88D8D67a15BbED11e5bbD902fbbE6d1",
+		"privateKey": "0xb63568b2cd6a507e5d04be666d6bd57d8221dc3e9a5365da91de3d6423796e67",
+		"AssetId": 5
+	},
+	"56P1": {
+		"address": "0x66273643b9E229a10DB3c2B785f722E1ce11cAbF",
+		"privateKey": "0xf6119a0147199769d9d50d6056617e62a05565c048f4f882ffd82409550ede9d",
+		"AssetId": 6
+	},
+	"10P6": {
+		"address": "0xAe1608E610aE494e7bBA39eA1a37c1D51DbE3323",
+		"privateKey": "0x9eb93b4d3b78e3fbe9344888c4a6dc82bfb8967252ba977f29209547fde18702",
+		"AssetId": 7
+	},
+	"24P2": {
+		"address": "0x2813817D41349fc44fA95EF1EfFfd425Cf1d483A",
+		"privateKey": "0xf2ce83ce2ccc89c3f92616d4dd66f86be1b8194abebcdf27212306af9f67bb50",
+		"AssetId": 8
+	},
+	"10P2": {
+		"address": "0x8332F7620bB6283b9E102847a23bcfbc5D0476bf",
+		"privateKey": "0xf53fc0d175a6087b9174eb51e055dffe5d3ffc647e62401e795b453806eca50f",
+		"AssetId": 9
+	},
+	"60P7": {
+		"address": "0xA1334121B907cbb284890416568B305dcB99E7bf",
+		"privateKey": "0xd84095f99949c4f5596c9b44c70522f4adb1fed72cab46d67296ae422c03f77b",
+		"AssetId": 10
+	},
+	"41P9": {
+		"address": "0xE24F23f8d6d3B5dbdBb1f431A04AEE01d33dc7ae",
+		"privateKey": "0x8fad710bcca3fea5aa08cc09583ebef233be0326d23bc498362c89c80a756643",
+		"AssetId": 11
+	},
+	"33P3": {
+		"address": "0x4FBe363E79460c34c595F039Ec3BF3a929d511F8",
+		"privateKey": "0x9f76a0181c8079ed05680f3bd7bd28e2e39aae3fc3aeeb4a9a0752a6f797b483",
+		"AssetId": 12
+	},
+	"16P6": {
+		"address": "0x5E93c018bEe6715f358e39D4D0DE34153f548785",
+		"privateKey": "0xb38b82d2b5bbb3db426f49b0493e4d29b8a35222c74bc773511e02cdbb573674",
+		"AssetId": 13
+	},
+	"28P2": {
+		"address": "0x6c744e2234aB1104905b657502DecD285a3D50Be",
+		"privateKey": "0x818c2dd9920e8850d223b36d6ff79d1f6fed0bfb189265f276562d0e0c7f970e",
+		"AssetId": 14
+	},
+	"41P1": {
+		"address": "0xEFf5863f8E421AAAd14A612FD9FEfEFFf3392084",
+		"privateKey": "0x2c116e89b0c6ed11a5b08a675806aee2e0566ebd006e1e2428830692a090d93f",
+		"AssetId": 15
+	},
+	"64P0": {
+		"address": "0x496343C934b6ACe7FE8b0b31d867f5255e22cb46",
+		"privateKey": "0x04be8798973998773de84e1dc1244b5950904bb4cb28e8543083bf27b3891206",
+		"AssetId": 16
+	},
+	"65P8": {
+		"address": "0x14C2155ddA147f65E4969FA3871a7e9191978FdF",
+		"privateKey": "0xf858815f6d9b094a30987f42fd8b1348ec0bc203765f7892a2544fbf72587302",
+		"AssetId": 17
+	},
+	"32P3": {
+		"address": "0x9cdFF30fdEF8bC3B5F070C87958D22322E37F4eD",
+		"privateKey": "0x7b9993c7b6bed3d2bde519ca07c766b5b58466000c4c1d98349f975ce7bcff09",
+		"AssetId": 18
+	},
+	"14P3": {
+		"address": "0x7084756235325595f99E27ED8705204EdBD32586",
+		"privateKey": "0x0c894f5bd8b2db19317d1aa8fa7e35114e98ac8dd55c4929549b9900e16273a1",
+		"AssetId": 19
+	},
+	"65P7": {
+		"address": "0x3081291DC58F37fb55D28ECbD7c01fBb46aa635c",
+		"privateKey": "0xb99e674aa463d3197472056edc109d3a38b316ed4a871231407a6756c18ad541",
+		"AssetId": 20
+	},
+	"66P3": {
+		"address": "0x8a5141d44C61e7faDbaC4C5E1EB79eB80cB7b789",
+		"privateKey": "0xc6cbb2084b8f92b394b290ffb52ee3267381bd5b4acbb9c996924ccc8f9197c3",
+		"AssetId": 21
+	},
+	"37P1": {
+		"address": "0x2Fca6F843212eAAb8fADe438688C8Dcd0127fb00",
+		"privateKey": "0x7b4fdc042f01fe9200d2306c7c26f96e83371c72e582455e0f5b8ef6c07a63a6",
+		"AssetId": 22
+	},
+	"61P6": {
+		"address": "0x7Fd17E4622420c9f47Da5D818798E65A5e898c0f",
+		"privateKey": "0xa7ac1376c17e37ac89f84b2df6622b08d6261341877262c3a334d4189e226b91",
+		"AssetId": 23
+	},
+	"39P2": {
+		"address": "0x528f7b0e82ceFe629f1B46D28682E2fd5dF0f365",
+		"privateKey": "0xbb5aa2182ecd3f37d3fc80d7c95c4ea53e5fb671e0c04ecf9d7cdc1262ec687d",
+		"AssetId": 24
+	},
+	"64P7": {
+		"address": "0x8e6e94BeB4eEd10104fB5E17f1F8BC4C93742aDd",
+		"privateKey": "0x8e43495b9eb86c8a89f0f3b7e78c710262041abec990817f60e3205beab4452b",
+		"AssetId": 25
+	},
+	"30P2": {
+		"address": "0xaF9b088Bc183B3A2CE6a0Ee4A61Cec7c2Bd71EC9",
+		"privateKey": "0x1534fd3e53bf77492c9a4fdf2adb079af1ba7daa1958071b275c1f3b58a193dd",
+		"AssetId": 26
+	},
+	"55P6": {
+		"address": "0x82A09c96D271fc2505ECa9754aadf7D09B012Ea9",
+		"privateKey": "0x50889773f10e55febadca18cd1ea3c9ae6a79789988b9e8e34e8a656e33863d2",
+		"AssetId": 27
+	},
+	"23P4": {
+		"address": "0x66624199F9629da84Ad3b5f1709cB5Ff9faE7580",
+		"privateKey": "0x4a418d9b066337151ea3d5c9c36d3b8b21b72ff7f124767ba2ea01fe04872d2d",
+		"AssetId": 28
+	},
+	"15P6": {
+		"address": "0x65Bc83F43a29885bAFF2AC3233B72F2b0394371b",
+		"privateKey": "0xf893d883283578cd8d109c934ed22ebd0787d9f2b77eb6f2a023d660a79e5b84",
+		"AssetId": 29
+	},
+	"67P1": {
+		"address": "0x7688C74D63BddCcC794a550E08a8abF4D422621E",
+		"privateKey": "0xd27e9f2501808df7ed7b314c93c067347d28ae564da861218f077d9d5ca7cf14",
+		"AssetId": 30
+	},
+	"64P8": {
+		"address": "0x5Be782dD20687a4303Ed55D6D457649D7090Ec18",
+		"privateKey": "0xbdc3bd1d05403f0d50951497c50c5b09a37fc17ad13a0dbf6aa8f86f2f5616c8",
+		"AssetId": 31
+	},
+	"57P5": {
+		"address": "0xb235f6EB9305270d51763D22A8aa09EBF991F929",
+		"privateKey": "0x768d8774d3d56e82eca6f58e1b361834ad7d6834a160169dd26fdd2c840c533b",
+		"AssetId": 32
+	},
+	"29P0": {
+		"address": "0x44Cc253e53981196fCBEba7798b2A799e82166eC",
+		"privateKey": "0x0f1aa1cbafcaecc01adb748fe07c8205ae9e6ae06addc4a90319401d6394e391",
+		"AssetId": 33
+	},
+	"66P8": {
+		"address": "0x037e938dC7d50F67087D5784EcFd9819E79100a7",
+		"privateKey": "0xb36a3d60e3435bd3beed9597fb814bb658e59340d2c5522eb8fce454e9ee325a",
+		"AssetId": 34
+	},
+	"61P3": {
+		"address": "0xf9c0Ae0dd8221F68840e8e3745fc7131c28b47B3",
+		"privateKey": "0xb4f6038b208d388043050820258753cb865f82a2469eea005ab0a12c78056c2c",
+		"AssetId": 35
+	},
+	"34P6": {
+		"address": "0xF9Ab137cCc9581eac0e0895aD0AB11C9B0663FE1",
+		"privateKey": "0x77748fd15a8912d9f39f12c30b0319aeefdcff3582cd5e9259441ac846a9c9d8",
+		"AssetId": 36
+	},
+	"63P8": {
+		"address": "0x90B110f554a56b2c5Cf812539173FC1228cfde25",
+		"privateKey": "0xe469c0aa8bfd21afb1756ca0d9b8471b86045153028ff3a4a06d4dfb0337e451",
+		"AssetId": 37
+	},
+	"44P8": {
+		"address": "0xe2ab79ea2529a12e87A2967388e55C44B0c06908",
+		"privateKey": "0x33ed6d2e5037cc482d9c88bf485d5cb99f0d0fb8e02ef84852a1c2f7378805b1",
+		"AssetId": 38
+	},
+	"59P9": {
+		"address": "0xFcDE57913b88a4481B9FD4DBd67E4a1eB7DBF03d",
+		"privateKey": "0xbd3f4091f7d3c80c01bd5eb2290f1102ecc2fed66dde9bfe5e11503014d0f289",
+		"AssetId": 39
+	},
+	"46P4": {
+		"address": "0x140Fd951890e935f4b0928f1b218e0eb462804D8",
+		"privateKey": "0x8f8572d43aee83102c149c850f3e5cada53435964734b501266ee7b22af85515",
+		"AssetId": 40
+	},
+	"15P2": {
+		"address": "0xd752c9209c35Aed17fa09765F45CbD1AA929f2F1",
+		"privateKey": "0xdf4358ed681065838a367f846b469a12b9cc62352ace6c5bb3e4a8af1cf73763",
+		"AssetId": 41
+	},
+	"63P0": {
+		"address": "0x760e89a31450b83023d4dc76607C9d567cb5d48C",
+		"privateKey": "0x7f2264923bcc75c08842a7334124ffe22c2e87407db9a0058462ab9701bfa50a",
+		"AssetId": 42
+	},
+	"66P7": {
+		"address": "0xe27ACe263d99c55dC80eCc18Eef74109a0D93292",
+		"privateKey": "0x4ea0e09c7ace3d21c4cc6fab14e73d4531a9ac2aaf29fbafe5226f5e5ec9c0fc",
+		"AssetId": 43
+	},
+	"28P5": {
+		"address": "0x52e0Bc4C5bcbaE022AaF3417290A75E4e7Fc1853",
+		"privateKey": "0xc30083a312e9ca6b14797d45276465b1984df32ee18a8bf9ee1a81cb32a88ec8",
+		"AssetId": 44
+	},
+	"32P9": {
+		"address": "0x9A9407043CA0956126E17783755dd93Da344740D",
+		"privateKey": "0x75db4fca932374d3f10985cd23197153a8821200e83797c4dede72254c8ce991",
+		"AssetId": 45
+	},
+	"11P5": {
+		"address": "0xe1bdb6c5Ae28D88cDFC5A906E06f08D4D3E73708",
+		"privateKey": "0xf3891e41e68e590c802d98db4f6145517a7f620a21cd9a5cbeaa6bf8b3cac68d",
+		"AssetId": 46
+	},
+	"21P6": {
+		"address": "0x9ccc47e64de71Ab0bfD73C057E3836A62aeA07d6",
+		"privateKey": "0x2dd272c177ac90e22c1a4aed8ca13b64e4d0bfd4e95b5732dd4aadef2a06f739",
+		"AssetId": 47
+	},
+	"32P2": {
+		"address": "0xDC6bfB071C059074cFf6C2c6a7Cd105c34ad3af5",
+		"privateKey": "0x8c736b875480bc61202660318e162c9cb6b9062dd1b280ba427f9d58b64cf67a",
+		"AssetId": 48
+	},
+	"27P9": {
+		"address": "0x956964dCBe074547Ab5BB074357D68Bf508A421b",
+		"privateKey": "0x7fc90310dc08f2140c562ce4a4b8aa6aa3bc0c9a3c85767bef0c74d1e0590221",
+		"AssetId": 49
+	},
+	"33P8": {
+		"address": "0xFfc5731f0727D292fCA51e57A7bc7F2f705716c1",
+		"privateKey": "0x62cb1cac21b5081e7ef4f26f18aaad9828fd15f41d92178ebffe505d56e40539",
+		"AssetId": 50
+	},
+	"26P6": {
+		"address": "0x4fcf8f62Cc28e4a21de76Faa118106A2E47140E6",
+		"privateKey": "0x81ecb87c62dfe3dbc84b30f7a31c2e594b88a3cc440c9c2951d7c44a5b832962",
+		"AssetId": 51
+	},
+	"47P1": {
+		"address": "0x0ae04Ec36b9DA672fF183e21D77e6966101DDaA2",
+		"privateKey": "0xbb27ceefee1039a3ffda09cdedccfdb07740eade10730ac9d96f7d5eb6099ad9",
+		"AssetId": 52
+	},
+	"32P6": {
+		"address": "0xCD6Fd4B6cFdc6C9bd69dc0A3e2b0F75F455B66e4",
+		"privateKey": "0xd823911931062e3f67beaf4f2ed25a80313384b8394b517623d8240afe9f5d92",
+		"AssetId": 53
+	},
+	"12P0": {
+		"address": "0x0AF7034776F169f493F486F1255174E56251B320",
+		"privateKey": "0x3a07235fd53bc560007001211be1580c91c40b88166e0e14c9faf937bc8fcd1f",
+		"AssetId": 54
+	}
+}

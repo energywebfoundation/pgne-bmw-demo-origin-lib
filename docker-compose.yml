@@ -1,0 +1,9 @@
+version: '2'
+services:
+  api-connector:
+    image: docker.slock.it/ewf/ew-coo-releasea:latest
+    stdin_open: true
+    tty: true
+    labels:
+      io.rancher.container.pull_image: always
+      io.rancher.scheduler.affinity:host_label: role=application

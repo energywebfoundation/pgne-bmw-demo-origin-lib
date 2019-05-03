@@ -1,0 +1,17 @@
+First name;Last Name;Organization;ethereum;Country;State;ZIP;City;Street;Housenumber;Roles
+Thierre;Mathieu;Engie AS;0x0072B6143cbFA0EEDfd814c1577465789e7f732d;France;S;92930;Paris;Place Samuel de Champlain;1;48
+Katrin;Theis;Private;0x00aA8fddb9bD787eA5a7Af83A5A73eABDb2B8032;Germany;Hessen;35037;Marburg;Landgraf-Philipp-Strasse;6;48
+Steffen;Kux;Private;0x3f8f4a9e1c14f4cd21b2de5b48bce165f1b0d52e;Germany;Saxony;9648;Mittweida;Chemnitzer Strasse;39e;48
+Elizabeth;Willmott;Microsoft Corporation;0x06432a35871c3ce203b8006b1b0f5dc4534ef6a0;USA;Washington;98052;Redmond;NE 36th Way;16011;48
+TWL;AG;Technische Werke Ludwigshafen AG;0xa0feefe7e0c827c62730ddf3ed0de56660663079;Germany;RLP;67063;Ludwigshafen;Industriestraße;3;48
+Jens;Griesing;Microsoft Corporation;0x82f43BEc871167d0794860bAc5A7D945e96682Bf;Germany;Hessen;60487;Frankfurt am Main;Falkstrasse;7;63
+Sau;Sheong;SP Group;0x25Ea0A62f43c0a9875c99790653038e157421a72;Singapore;Singapore;89315;Singapore;Hoe Chiang Rd;10;48
+DBS;Rep;DBS Bank;0x6345DC9FaC9d0662103ab05e4545B833a6a7992C;Singapore;Singapore;486029;Singapore;Changi Business Park Crescent;2;32
+Martin;Kuechler;slock.it;0xd173313a51f8fc37bcf67569b463abd89d81844f;Germany;Saxony;9648;Mittweida;Markt;16;63
+Steffen;Koenig;Sonnen GmbH;0x009c9889C060c551F26bE504bFeb426645387Bf3;Germany;Bavaria;87500;Wildpoldsried;Am Riedbach;1;48
+Ed;Hesse;Grid Singularity GmbH;0x003E64c28CE66392b48A653c163dcf8879073371;Germany;Berlin;12047;Berlin;Schinkestrasse;20;48
+Jens;Griesing;E.ON Consumption Profile;0x3409c66069b3c4933c654beeaa136cc5ce6d7bd0;Germany;North Rhine-Westphalia;45131;Essen;Brüsseler Platz;1;63
+Jens;Griesing;MS Consumption Profile;0xaf9dde98b6aeb2225bf87c2cb91c58833fbab2ab;USA;Washington;98052;Redmond;NE 36th Way;16011;63
+Fabian;Grote;E.ON;0x00a54723AF39944A089705e75D58Cf9e8Edeed76;Germany;North Rhine-Westphalia;45131;Essen;Brüsseler Platz;1;48
+Doug;Miller;Microsoft Corporation;0x0022d7FC9514a00df8DD5A663cEd70E57F39BaA1;USA;District of Columbia;20006;Washington;K Street;K Street;63
+Matcher;;Slock.it;0x343854a430653571b4de6bf2b8c475f828036c30;Germany;Saxony;9648;Mittweida;Markt;16;64
